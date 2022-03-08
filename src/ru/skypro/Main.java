@@ -57,7 +57,7 @@ public class Main {
 //        }
 //        №5
 
-        int monthNumber = 5;
+        int monthNumber = 7;
         switch(monthNumber){
             case 12:
             case 1:
@@ -73,6 +73,7 @@ public class Main {
             case 7:
             case 8:
                 System.out.println("Лето");
+                break;
             case 9:
             case 10:
             case 11:
